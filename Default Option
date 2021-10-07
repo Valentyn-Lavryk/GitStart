@@ -26,4 +26,5 @@ switch(val){
   return answer;
 }
 
+
 switchOfStuff(1);
